@@ -4,8 +4,8 @@
   <asx:values>
    <DDLX>
     <METADATA>
-     <NAME>ZC_BUILD</NAME>
-     <DESCRIPTION>BUILD MDE</DESCRIPTION>
+     <NAME>ZC_REPLYCODE_MDE</NAME>
+     <DESCRIPTION>MDE  for ReplyCode comsumption view</DESCRIPTION>
      <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
     </METADATA>
    </DDLX>

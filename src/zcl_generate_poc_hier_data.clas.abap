@@ -31,9 +31,7 @@ ENDCLASS.
 
 
 
-CLASS ZCL_GENERATE_POC_HIER_DATA IMPLEMENTATION.
-
-
+CLASS zcl_generate_poc_hier_data IMPLEMENTATION.
 METHOD if_oo_adt_classrun~main.
     "clear the data to ensure clean reload
     DELETE FROM zmrc.

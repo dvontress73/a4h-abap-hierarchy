@@ -9,10 +9,7 @@
 [
 "ZC_BUILD",
 "ZC_MRC",
-"ZC_REPLYCODE",
-"ZI_BUILD",
-"ZI_MRC",
-"ZI_REPLYCODE"
+"ZC_REPLYCODE"
 ],
 "BASE":
 [
